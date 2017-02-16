@@ -12,6 +12,9 @@
 		BDD109791C2773600076C2AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD109771C2773600076C2AF /* Main.storyboard */; };
 		BDD1097B1C2773600076C2AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD1097A1C2773600076C2AF /* Assets.xcassets */; };
 		BDD1097E1C2773600076C2AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD1097C1C2773600076C2AF /* LaunchScreen.storyboard */; };
+		BDD109881C2773D40076C2AF /* tic tac board.png in Resources */ = {isa = PBXBuildFile; fileRef = BDD109851C2773D40076C2AF /* tic tac board.png */; };
+		BDD109891C2773D40076C2AF /* tic tac o.png in Resources */ = {isa = PBXBuildFile; fileRef = BDD109861C2773D40076C2AF /* tic tac o.png */; };
+		BDD1098A1C2773D40076C2AF /* tic tac x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDD109871C2773D40076C2AF /* tic tac x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		BDD1097A1C2773600076C2AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDD1097D1C2773600076C2AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDD1097F1C2773600076C2AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDD109851C2773D40076C2AF /* tic tac board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tic tac board.png"; sourceTree = "<group>"; };
+		BDD109861C2773D40076C2AF /* tic tac o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tic tac o.png"; sourceTree = "<group>"; };
+		BDD109871C2773D40076C2AF /* tic tac x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tic tac x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				BDD109731C2773600076C2AF /* AppDelegate.swift */,
 				BDD109751C2773600076C2AF /* ViewController.swift */,
 				BDD109771C2773600076C2AF /* Main.storyboard */,
+				BDD109851C2773D40076C2AF /* tic tac board.png */,
+				BDD109861C2773D40076C2AF /* tic tac o.png */,
+				BDD109871C2773D40076C2AF /* tic tac x.png */,
 				BDD1097A1C2773600076C2AF /* Assets.xcassets */,
 				BDD1097C1C2773600076C2AF /* LaunchScreen.storyboard */,
 				BDD1097F1C2773600076C2AF /* Info.plist */,
@@ -122,8 +131,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDD109881C2773D40076C2AF /* tic tac board.png in Resources */,
 				BDD1097E1C2773600076C2AF /* LaunchScreen.storyboard in Resources */,
+				BDD109891C2773D40076C2AF /* tic tac o.png in Resources */,
 				BDD1097B1C2773600076C2AF /* Assets.xcassets in Resources */,
+				BDD1098A1C2773D40076C2AF /* tic tac x.png in Resources */,
 				BDD109791C2773600076C2AF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
